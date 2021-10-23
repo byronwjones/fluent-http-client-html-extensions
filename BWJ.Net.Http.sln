@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BWJ.Net.Http.RequestBuilderExtensions.Html", "BWJ.Net.Http.RequestBuilderExtensions.Html\BWJ.Net.Http.RequestBuilderExtensions.Html.csproj", "{80621BEB-5B28-4E77-8352-3A89698D1D0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80621BEB-5B28-4E77-8352-3A89698D1D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80621BEB-5B28-4E77-8352-3A89698D1D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80621BEB-5B28-4E77-8352-3A89698D1D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80621BEB-5B28-4E77-8352-3A89698D1D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9342DEAB-1AD8-4F1A-9AA4-CFEEBA78B6CD}
+	EndGlobalSection
+EndGlobal

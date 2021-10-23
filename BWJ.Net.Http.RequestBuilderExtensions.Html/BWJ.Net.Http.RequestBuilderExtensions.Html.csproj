@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Authors>Byron Jones</Authors>
+    <Company>Byron W Jones, LLC</Company>
+    <Description>Extensions for building requests using FluentHttpClient that return an easily traversable response using AngleSharp's IHtmlDocument</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Version>0.1.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AngleSharp" Version="0.16.1" />
+    <PackageReference Include="BWJ.Net.Http.FluentHttpClient" Version="0.2.0" />
+  </ItemGroup>
+
+</Project>
